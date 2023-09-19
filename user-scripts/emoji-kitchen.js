@@ -66,8 +66,8 @@
     sizeControl.style.cssText = `
       display: flex;
       flex-direction: column;
-      width: 2rem;
-      height: 2rem;
+      width: 1.5rem;
+      margin: 0.3rem;
     `
     increaseSize.textContent = '+';
     decreaseSize.textContent = '-';
